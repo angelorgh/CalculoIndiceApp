@@ -1,0 +1,377 @@
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.exe.config
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.exe
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.pdb
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csprojAssemblyReference.cache
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarEstudiante.resources
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.Form1.resources
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarAsignatura.resources
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarEstudiante.resources
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarProfesor.resources
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarTrimestre.resources
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.Properties.Resources.resources
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csproj.GenerateResource.cache
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.exe
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.pdb
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarProfesor.resources
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarAsignatura.resources
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Form1.resx
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Form1.Designer.cs
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Insertar\InsertarTrimestre.Designer.cs
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.Consultar.ConsultarTrimestre.resources
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarAsignatura.resources
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarEstudiante.resources
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarProfesor.resources
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarTrimestre.resources
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildInsertarNota.resources
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarCalificaciones.resources
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarAsignatura.resources
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarEstudiante.resources
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarAsignatura.resources
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarEstudiante.resources
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarProfesor.resources
+C:\Users\Gabriel\Source\Repos\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarProfesor.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Form1.resx
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Form1.Designer.cs
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Insertar\InsertarTrimestre.Designer.cs
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.exe.config
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.exe
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.pdb
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csprojAssemblyReference.cache
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildConsultarTrimestre.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarAsignatura.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarEstudiante.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarProfesor.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarTrimestre.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarAsignatura.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarEstudiante.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarProfesor.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarTrimestre.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.Form1.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildInsertarNota.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarAsignatura.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarCalificaciones.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarEstudiante.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarProfesor.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarTrimestre.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarAsignatura.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarEstudiante.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarProfesor.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarAsignatura.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarEstudiante.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarProfesor.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.Properties.Resources.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csproj.GenerateResource.cache
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csproj.CoreCompileInputs.cache
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.exe
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.pdb
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Form1.resx
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Form1.Designer.cs
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Insertar\InsertarTrimestre.Designer.cs
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.exe.config
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.exe
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.pdb
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csprojAssemblyReference.cache
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildConsultarTrimestre.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarAsignatura.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarEstudiante.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarProfesor.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarTrimestre.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarAsignatura.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarEstudiante.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarProfesor.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarTrimestre.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.Form1.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildInsertarNota.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarAsignatura.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarCalificaciones.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarEstudiante.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarProfesor.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarTrimestre.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarAsignatura.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarEstudiante.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarProfesor.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarAsignatura.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarEstudiante.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarProfesor.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.Properties.Resources.resources
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csproj.GenerateResource.cache
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csproj.CoreCompileInputs.cache
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.exe
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.pdb
+C:\Users\roblo\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarRanking.resources
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Form1.resx
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Form1.Designer.cs
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Insertar\InsertarTrimestre.Designer.cs
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.exe.config
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.exe
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.pdb
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csprojAssemblyReference.cache
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildConsultarTrimestre.resources
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarAsignatura.resources
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarEstudiante.resources
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarProfesor.resources
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarRanking.resources
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarTrimestre.resources
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarAsignatura.resources
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarEstudiante.resources
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarProfesor.resources
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarTrimestre.resources
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.Form1.resources
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildInsertarNota.resources
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarAsignatura.resources
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarCalificaciones.resources
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarEstudiante.resources
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarProfesor.resources
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarTrimestre.resources
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarAsignatura.resources
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarEstudiante.resources
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarProfesor.resources
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarAsignatura.resources
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarEstudiante.resources
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarProfesor.resources
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.Properties.Resources.resources
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csproj.GenerateResource.cache
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csproj.CoreCompileInputs.cache
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.exe
+D:\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.pdb
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Form1.resx
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Form1.Designer.cs
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Insertar\InsertarTrimestre.Designer.cs
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.exe.config
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.exe
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.pdb
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csprojAssemblyReference.cache
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildConsultarTrimestre.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarAsignatura.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarEstudiante.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarProfesor.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarRanking.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarTrimestre.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarAsignatura.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarEstudiante.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarProfesor.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarTrimestre.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.Form1.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildInsertarNota.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarAsignatura.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarCalificaciones.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarEstudiante.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarProfesor.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarTrimestre.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarAsignatura.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarEstudiante.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarProfesor.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarAsignatura.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarEstudiante.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarProfesor.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.Properties.Resources.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csproj.GenerateResource.cache
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csproj.CoreCompileInputs.cache
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.exe
+C:\Users\AngeloRGH-LAPTOP\Desktop\proj tecnicas ver gabriel - Copy\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.pdb
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Form1.resx
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Form1.Designer.cs
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Insertar\InsertarTrimestre.Designer.cs
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.exe.config
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.exe
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.pdb
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csprojAssemblyReference.cache
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildConsultarTrimestre.resources
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarAsignatura.resources
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarEstudiante.resources
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarProfesor.resources
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarRanking.resources
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarTrimestre.resources
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarAsignatura.resources
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarEstudiante.resources
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarProfesor.resources
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarTrimestre.resources
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.Form1.resources
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildInsertarNota.resources
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarAsignatura.resources
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarCalificaciones.resources
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarEstudiante.resources
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarProfesor.resources
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarTrimestre.resources
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarAsignatura.resources
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarEstudiante.resources
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarProfesor.resources
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarAsignatura.resources
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarEstudiante.resources
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarProfesor.resources
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.Properties.Resources.resources
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csproj.GenerateResource.cache
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csproj.CoreCompileInputs.cache
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.exe
+D:\Proj Tecnicas ver2\Proyecto-Tecnicas\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.pdb
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\bin\Debug\Form1.resx
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\bin\Debug\Form1.Designer.cs
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\bin\Debug\Insertar\InsertarTrimestre.Designer.cs
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.exe.config
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.exe
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.pdb
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csprojAssemblyReference.cache
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildConsultarTrimestre.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarAsignatura.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarEstudiante.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarProfesor.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarRanking.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarTrimestre.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarAsignatura.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarEstudiante.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarProfesor.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarTrimestre.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.Form1.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildInsertarNota.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarAsignatura.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarCalificaciones.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarEstudiante.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarProfesor.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarTrimestre.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarAsignatura.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarEstudiante.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarProfesor.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarAsignatura.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarEstudiante.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarProfesor.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.Properties.Resources.resources
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csproj.GenerateResource.cache
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csproj.CoreCompileInputs.cache
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.exe
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.pdb
+C:\Users\AngeloRGH-LAPTOP\Desktop\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.Menu.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\bin\Debug\Login.mdf
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\bin\Debug\Login_log.ldf
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\bin\Debug\MenuAdmin.resx
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\bin\Debug\MenuAdmin.Designer.cs
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\bin\Debug\Insertar\InsertarTrimestre.Designer.cs
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.exe.config
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.exe
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.pdb
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csprojAssemblyReference.cache
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildConsultarTrimestre.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarAsignatura.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarEstudiante.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarProfesor.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarRanking.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarTrimestre.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarAsignatura.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarEstudiante.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarProfesor.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarTrimestre.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.LoginAdmin.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.MenuAdmin.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildInsertarNota.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarAsignatura.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarCalificaciones.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarEstudiante.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarProfesor.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarTrimestre.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.Menu.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.MenuEstudiante.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarAsignatura.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarEstudiante.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarProfesor.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarAsignatura.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarEstudiante.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarProfesor.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.Properties.Resources.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csproj.GenerateResource.cache
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csproj.CoreCompileInputs.cache
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.exe
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.pdb
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.LoginEstudiante.resources
+C:\Proyectos\Proyecto-Tecnicas Grupo #7 Sec - 01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.LoginProfesor.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\bin\Debug\Login.mdf
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\bin\Debug\Login_log.ldf
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\bin\Debug\MenuAdmin.resx
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\bin\Debug\Insertar\InsertarTrimestreEst.Designer.cs
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\bin\Debug\MenuAdmin.Designer.cs
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\bin\Debug\Insertar\InsertarTrimestre.Designer.cs
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.exe.config
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.exe
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.pdb
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csprojAssemblyReference.cache
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildConsultarTrimestre.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarAsignatura.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarEstudiante.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarProfesor.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarRanking.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarTrimestreEst.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarTrimestre.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarAsignatura.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarEstudiante.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarProfesor.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarTrimestre.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarTrimestreEst.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.LoginAdmin.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.LoginEstudiante.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.LoginProfesor.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.MenuAdmin.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildInsertarNota.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarAsignatura.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarCalificaciones.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarEstudiante.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarProfesor.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarTrimestre.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.Menu.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.MenuEstudiante.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.MenuProfesor.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarAsignatura.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarEstudiante.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarProfesor.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarAsignatura.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarEstudiante.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarProfesor.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.Properties.Resources.resources
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csproj.GenerateResource.cache
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csproj.CoreCompileInputs.cache
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.exe
+C:\Proyectos\Proyecto-TecnicasGrupo#7Sec-01\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.pdb
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\bin\Debug\Login.mdf
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\bin\Debug\Login_log.ldf
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\bin\Debug\MenuAdmin.resx
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\bin\Debug\Insertar\InsertarTrimestreEst.Designer.cs
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\bin\Debug\MenuAdmin.Designer.cs
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\bin\Debug\Insertar\InsertarTrimestre.Designer.cs
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.exe.config
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.exe
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\bin\Debug\Proyecto Tecnicas.pdb
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csprojAssemblyReference.cache
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildConsultarTrimestre.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarAsignatura.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarEstudiante.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarProfesor.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarRanking.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarTrimestreEst.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ConsultarTrimestre.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarAsignatura.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarEstudiante.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarProfesor.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.EliminarTrimestre.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarTrimestreEst.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.LoginAdmin.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.LoginEstudiante.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.LoginProfesor.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.MenuAdmin.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildInsertarNota.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarAsignatura.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarCalificaciones.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarEstudiante.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarProfesor.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.InsertarTrimestre.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.Menu.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.MenuEstudiante.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.MenuProfesor.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarAsignatura.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarEstudiante.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ChildModificarProfesor.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarAsignatura.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarEstudiante.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.ModificarProfesor.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto_Tecnicas.Properties.Resources.resources
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csproj.GenerateResource.cache
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.csproj.CoreCompileInputs.cache
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.exe
+D:\Projects\C#\IDS323 - 01 - 2019-02 - Grupo #7 - Aplicación\Proyecto Tecnicas\obj\Debug\Proyecto Tecnicas.pdb

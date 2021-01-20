@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C2D9E69A-0729-42F2-838A-1A75568B6AE1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Proyecto_Tecnicas</RootNamespace>
+    <AssemblyName>Proyecto Tecnicas</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\Asignatura.cs" />
+    <Compile Include="Clases\Estudiante.cs" />
+    <Compile Include="Clases\FormProvider.cs" />
+    <Compile Include="Consultar\ChildConsultarTrimestre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultar\ChildConsultarTrimestre.Designer.cs">
+      <DependentUpon>ChildConsultarTrimestre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultar\ConsultarAsignatura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultar\ConsultarAsignatura.Designer.cs">
+      <DependentUpon>ConsultarAsignatura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultar\ConsultarEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultar\ConsultarEstudiante.Designer.cs">
+      <DependentUpon>ConsultarEstudiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultar\ConsultarProfesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultar\ConsultarProfesor.Designer.cs">
+      <DependentUpon>ConsultarProfesor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultar\ConsultarRanking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultar\ConsultarRanking.Designer.cs">
+      <DependentUpon>ConsultarRanking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultar\ConsultarTrimestreEst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultar\ConsultarTrimestreEst.Designer.cs">
+      <DependentUpon>ConsultarTrimestreEst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultar\ConsultarTrimestre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultar\ConsultarTrimestre.Designer.cs">
+      <DependentUpon>ConsultarTrimestre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Eliminar\EliminarAsignatura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eliminar\EliminarAsignatura.Designer.cs">
+      <DependentUpon>EliminarAsignatura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Eliminar\EliminarEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eliminar\EliminarEstudiante.Designer.cs">
+      <DependentUpon>EliminarEstudiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Eliminar\EliminarProfesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eliminar\EliminarProfesor.Designer.cs">
+      <DependentUpon>EliminarProfesor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Eliminar\EliminarTrimestre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eliminar\EliminarTrimestre.Designer.cs">
+      <DependentUpon>EliminarTrimestre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Insertar\InsertarTrimestreEst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Insertar\InsertarTrimestreEst.Designer.cs">
+      <DependentUpon>InsertarTrimestreEst.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Logins\LoginAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logins\LoginAdmin.Designer.cs">
+      <DependentUpon>LoginAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logins\LoginEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logins\LoginEstudiante.Designer.cs">
+      <DependentUpon>LoginEstudiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logins\LoginProfesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logins\LoginProfesor.Designer.cs">
+      <DependentUpon>LoginProfesor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAdmin.Designer.cs">
+      <DependentUpon>MenuAdmin.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Insertar\ChildInsertarNota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Insertar\ChildInsertarNota.Designer.cs">
+      <DependentUpon>ChildInsertarNota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Insertar\InsertarAsignatura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Insertar\InsertarAsignatura.Designer.cs">
+      <DependentUpon>InsertarAsignatura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Insertar\InsertarCalificaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Insertar\InsertarCalificaciones.Designer.cs">
+      <DependentUpon>InsertarCalificaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Insertar\InsertarEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Insertar\InsertarEstudiante.Designer.cs">
+      <DependentUpon>InsertarEstudiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Insertar\InsertarProfesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Insertar\InsertarProfesor.Designer.cs">
+      <DependentUpon>InsertarProfesor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\Profesor.cs" />
+    <Compile Include="Insertar\InsertarTrimestre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Insertar\InsertarTrimestre.Designer.cs">
+      <DependentUpon>InsertarTrimestre.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuEstudiante.Designer.cs">
+      <DependentUpon>MenuEstudiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuProfesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuProfesor.Designer.cs">
+      <DependentUpon>MenuProfesor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modificar\ChildModificarAsignatura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificar\ChildModificarAsignatura.Designer.cs">
+      <DependentUpon>ChildModificarAsignatura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modificar\ChildModificarEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificar\ChildModificarEstudiante.Designer.cs">
+      <DependentUpon>ChildModificarEstudiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modificar\ChildModificarProfesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificar\ChildModificarProfesor.Designer.cs">
+      <DependentUpon>ChildModificarProfesor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modificar\ChildModificarTrimestre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificar\ChildModificarTrimestre.Designer.cs">
+      <DependentUpon>ChildModificarTrimestre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modificar\ModificarAsignatura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificar\ModificarAsignatura.Designer.cs">
+      <DependentUpon>ModificarAsignatura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modificar\ModificarEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificar\ModificarEstudiante.Designer.cs">
+      <DependentUpon>ModificarEstudiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modificar\ModificarProfesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificar\ModificarProfesor.Designer.cs">
+      <DependentUpon>ModificarProfesor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modificar\ModificarTrimestre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificar\ModificarTrimestre.Designer.cs">
+      <DependentUpon>ModificarTrimestre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Clases\Trimestre.cs" />
+    <EmbeddedResource Include="Consultar\ChildConsultarTrimestre.resx">
+      <DependentUpon>ChildConsultarTrimestre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultar\ConsultarAsignatura.resx">
+      <DependentUpon>ConsultarAsignatura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultar\ConsultarEstudiante.resx">
+      <DependentUpon>ConsultarEstudiante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultar\ConsultarProfesor.resx">
+      <DependentUpon>ConsultarProfesor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultar\ConsultarRanking.resx">
+      <DependentUpon>ConsultarRanking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultar\ConsultarTrimestreEst.resx">
+      <DependentUpon>ConsultarTrimestreEst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultar\ConsultarTrimestre.resx">
+      <DependentUpon>ConsultarTrimestre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eliminar\EliminarAsignatura.resx">
+      <DependentUpon>EliminarAsignatura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eliminar\EliminarEstudiante.resx">
+      <DependentUpon>EliminarEstudiante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eliminar\EliminarProfesor.resx">
+      <DependentUpon>EliminarProfesor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eliminar\EliminarTrimestre.resx">
+      <DependentUpon>EliminarTrimestre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Insertar\InsertarTrimestreEst.resx">
+      <DependentUpon>InsertarTrimestreEst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Logins\LoginAdmin.resx">
+      <DependentUpon>LoginAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Logins\LoginEstudiante.resx">
+      <DependentUpon>LoginEstudiante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Logins\LoginProfesor.resx">
+      <DependentUpon>LoginProfesor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAdmin.resx">
+      <DependentUpon>MenuAdmin.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Insertar\ChildInsertarNota.resx">
+      <DependentUpon>ChildInsertarNota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Insertar\InsertarAsignatura.resx">
+      <DependentUpon>InsertarAsignatura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Insertar\InsertarCalificaciones.resx">
+      <DependentUpon>InsertarCalificaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Insertar\InsertarEstudiante.resx">
+      <DependentUpon>InsertarEstudiante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Insertar\InsertarProfesor.resx">
+      <DependentUpon>InsertarProfesor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Insertar\InsertarTrimestre.resx">
+      <DependentUpon>InsertarTrimestre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuEstudiante.resx">
+      <DependentUpon>MenuEstudiante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuProfesor.resx">
+      <DependentUpon>MenuProfesor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificar\ChildModificarAsignatura.resx">
+      <DependentUpon>ChildModificarAsignatura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificar\ChildModificarEstudiante.resx">
+      <DependentUpon>ChildModificarEstudiante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificar\ChildModificarProfesor.resx">
+      <DependentUpon>ChildModificarProfesor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificar\ModificarAsignatura.resx">
+      <DependentUpon>ModificarAsignatura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificar\ModificarEstudiante.resx">
+      <DependentUpon>ModificarEstudiante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificar\ModificarProfesor.resx">
+      <DependentUpon>ModificarProfesor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Login.mdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Login_log.ldf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <DependentUpon>Login.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
