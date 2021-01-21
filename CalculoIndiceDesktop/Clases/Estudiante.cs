@@ -110,19 +110,48 @@ namespace Proyecto_Tecnicas
             
         }
 
-        public static void BorrarEstudiante(string ID)
+        public static bool BorrarEstudiante(string ID)
         {
-            Estudiante.Estudiantes.RemoveAll(r => r.ID == ID);
+            try
+            {
+                Estudiante.Estudiantes.RemoveAll(r => r.ID == ID);
+                return true;
+            }
+            catch (Exception)
+            {
+                return false;
+                throw;
+            }
+           
         }
 
-        public void AgregarTrimestre(Trimestre trimestre)
+        public bool AgregarTrimestre(Trimestre trimestre)
         {
-            this.Trimestres.Add(trimestre);
+            try
+            {
+                this.Trimestres.Add(trimestre);
+                return true;
+            }
+            catch (Exception)
+            {
+                return false;
+                throw;
+            }
+            
         }
 
-        public void BorrarTrimestre(string guid)
+        public bool BorrarTrimestre(string guid)
         {
-            this.Trimestres.RemoveAll(r => r.ID == guid);
+            try
+            {
+                this.Trimestres.RemoveAll(r => r.ID == guid);
+                return true;
+            }
+            catch (Exception)
+            {
+                return false;
+                throw;
+            }
         }
 
 
@@ -144,7 +173,7 @@ namespace Proyecto_Tecnicas
             return index;
         }
 
-        public void CalcularIndiceGeneral()
+        public double CalcularIndiceGeneral()
         {
             double indiceGeneral = 0;
             double ponderacionGeneral = 0;
@@ -159,6 +188,7 @@ namespace Proyecto_Tecnicas
             indiceGeneral = Math.Round(indiceGeneral, 1);
             this.IndiceGeneral = indiceGeneral;
             CheckearHonores();
+            return this.IndiceGeneral;
         }
 
         public void GetObjectData(SerializationInfo info, StreamingContext context)
@@ -182,28 +212,37 @@ namespace Proyecto_Tecnicas
             Honores = (string)info.GetValue("Honores", typeof(string));
         }
 
-        public static void CheckearHonores()
+        public static bool CheckearHonores()
         {
-            
-            for (int i = 0; i < Estudiante.Estudiantes.Count; i++)
+            try
             {
-                if (Estudiante.Estudiantes[i].IndiceGeneral >= 3.8 && Estudiante.Estudiantes[i].IndiceGeneral <= 4)
+                for (int i = 0; i < Estudiante.Estudiantes.Count; i++)
                 {
-                    Estudiante.Estudiantes[i].Honores = "Summa Cum Laude";
+                    if (Estudiante.Estudiantes[i].IndiceGeneral >= 3.8 && Estudiante.Estudiantes[i].IndiceGeneral <= 4)
+                    {
+                        Estudiante.Estudiantes[i].Honores = "Summa Cum Laude";
+                    }
+                    else if (Estudiante.Estudiantes[i].IndiceGeneral >= 3.5 && Estudiante.Estudiantes[i].IndiceGeneral <= 3.7)
+                    {
+                        Estudiante.Estudiantes[i].Honores = "Magna Cum Laude";
+                    }
+                    else if (Estudiante.Estudiantes[i].IndiceGeneral >= 3.2 && Estudiante.Estudiantes[i].IndiceGeneral <= 3.4)
+                    {
+                        Estudiante.Estudiantes[i].Honores = "Cum Laude";
+                    }
+                    else
+                    {
+                        Estudiante.Estudiantes[i].Honores = "Sin Honores";
+                    }
                 }
-                else if (Estudiante.Estudiantes[i].IndiceGeneral >= 3.5 && Estudiante.Estudiantes[i].IndiceGeneral <= 3.7)
-                {
-                    Estudiante.Estudiantes[i].Honores = "Magna Cum Laude";
-                }
-                else if (Estudiante.Estudiantes[i].IndiceGeneral >= 3.2 && Estudiante.Estudiantes[i].IndiceGeneral <= 3.4)
-                {
-                    Estudiante.Estudiantes[i].Honores = "Cum Laude";
-                }
-                else
-                {
-                    Estudiante.Estudiantes[i].Honores = "Sin Honores";
-                }
+                return true;
             }
+            catch (Exception)
+            {
+                return false;
+                throw;
+            }
+           
         }
 
         public int CompareTo(Estudiante other)
