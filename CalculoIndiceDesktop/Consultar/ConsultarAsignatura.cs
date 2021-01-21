@@ -22,10 +22,10 @@ namespace Proyecto_Tecnicas
 
         }
 
-        private void ButtonVolver_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
+        //private void ButtonVolver_Click(object sender, EventArgs e)
+        //{
+        //    this.Close();
+        //}
 
         private void ListViewAsignaturas_Load(object sender, EventArgs e)
         {

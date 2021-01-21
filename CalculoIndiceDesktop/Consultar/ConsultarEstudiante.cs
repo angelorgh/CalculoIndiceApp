@@ -41,9 +41,9 @@ namespace Proyecto_Tecnicas
             listViewEstudiantes.AutoResizeColumns(ColumnHeaderAutoResizeStyle.HeaderSize);
         }
 
-        private void ButtonVolver_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
+        //private void ButtonVolver_Click(object sender, EventArgs e)
+        //{
+        //    this.Close();
+        //}
     }
 }

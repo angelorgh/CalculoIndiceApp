@@ -34,13 +34,13 @@
             this.textBoxIndice = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.Volver = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // listViewAsignaturas
             // 
             this.listViewAsignaturas.FullRowSelect = true;
             this.listViewAsignaturas.GridLines = true;
+            this.listViewAsignaturas.HideSelection = false;
             this.listViewAsignaturas.Location = new System.Drawing.Point(95, 75);
             this.listViewAsignaturas.Name = "listViewAsignaturas";
             this.listViewAsignaturas.Size = new System.Drawing.Size(583, 369);
@@ -91,21 +91,11 @@
             this.label3.TabIndex = 5;
             this.label3.Text = "Indice Trimestral";
             // 
-            // Volver
-            // 
-            this.Volver.Location = new System.Drawing.Point(350, 550);
-            this.Volver.Name = "Volver";
-            this.Volver.Size = new System.Drawing.Size(75, 23);
-            this.Volver.TabIndex = 6;
-            this.Volver.Text = "Volver";
-            this.Volver.UseVisualStyleBackColor = true;
-            // 
             // ChildConsultarTrimestre
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(766, 598);
-            this.Controls.Add(this.Volver);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.textBoxIndice);
@@ -127,6 +117,5 @@
         private System.Windows.Forms.TextBox textBoxIndice;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Button Volver;
     }
 }

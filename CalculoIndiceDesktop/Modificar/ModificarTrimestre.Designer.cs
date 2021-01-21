@@ -42,6 +42,7 @@
             this.listViewEstudiantes.CheckBoxes = true;
             this.listViewEstudiantes.FullRowSelect = true;
             this.listViewEstudiantes.GridLines = true;
+            this.listViewEstudiantes.HideSelection = false;
             this.listViewEstudiantes.Location = new System.Drawing.Point(172, 72);
             this.listViewEstudiantes.Name = "listViewEstudiantes";
             this.listViewEstudiantes.Size = new System.Drawing.Size(496, 200);
@@ -53,6 +54,7 @@
             // 
             this.listViewTrimestres.FullRowSelect = true;
             this.listViewTrimestres.GridLines = true;
+            this.listViewTrimestres.HideSelection = false;
             this.listViewTrimestres.Location = new System.Drawing.Point(172, 344);
             this.listViewTrimestres.Name = "listViewTrimestres";
             this.listViewTrimestres.Size = new System.Drawing.Size(496, 200);
@@ -97,13 +99,13 @@
             // 
             // Volver
             // 
-            this.Volver.Location = new System.Drawing.Point(340, 612);
+            this.Volver.Location = new System.Drawing.Point(318, 601);
             this.Volver.Name = "Volver";
             this.Volver.Size = new System.Drawing.Size(75, 23);
             this.Volver.TabIndex = 6;
             this.Volver.Text = "Volver";
             this.Volver.UseVisualStyleBackColor = true;
-            this.Volver.Click += new System.EventHandler(this.Volver_Click);
+            //this.Volver.Click += new System.EventHandler(this.Volver_Click);
             // 
             // ModificarTrimestre
             // 

@@ -35,7 +35,6 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.Guardar = new System.Windows.Forms.Button();
-            this.Volver = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewAsignaturas)).BeginInit();
             this.SuspendLayout();
             // 
@@ -63,6 +62,7 @@
             // listViewTrimestre
             // 
             this.listViewTrimestre.GridLines = true;
+            this.listViewTrimestre.HideSelection = false;
             this.listViewTrimestre.Location = new System.Drawing.Point(220, 83);
             this.listViewTrimestre.Name = "listViewTrimestre";
             this.listViewTrimestre.Size = new System.Drawing.Size(409, 71);
@@ -73,6 +73,7 @@
             // listViewEstudiante
             // 
             this.listViewEstudiante.GridLines = true;
+            this.listViewEstudiante.HideSelection = false;
             this.listViewEstudiante.Location = new System.Drawing.Point(220, 31);
             this.listViewEstudiante.Name = "listViewEstudiante";
             this.listViewEstudiante.Size = new System.Drawing.Size(409, 46);
@@ -100,7 +101,7 @@
             // 
             // Guardar
             // 
-            this.Guardar.Location = new System.Drawing.Point(227, 543);
+            this.Guardar.Location = new System.Drawing.Point(290, 543);
             this.Guardar.Name = "Guardar";
             this.Guardar.Size = new System.Drawing.Size(75, 23);
             this.Guardar.TabIndex = 6;
@@ -108,23 +109,12 @@
             this.Guardar.UseVisualStyleBackColor = true;
             this.Guardar.Click += new System.EventHandler(this.Guardar_Click);
             // 
-            // Volver
-            // 
-            this.Volver.Location = new System.Drawing.Point(324, 543);
-            this.Volver.Name = "Volver";
-            this.Volver.Size = new System.Drawing.Size(75, 23);
-            this.Volver.TabIndex = 7;
-            this.Volver.Text = "Volver";
-            this.Volver.UseVisualStyleBackColor = true;
-            this.Volver.Click += new System.EventHandler(this.Volver_Click);
-            // 
             // ChildInsertarNota
             // 
             this.AcceptButton = this.Guardar;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(673, 578);
-            this.Controls.Add(this.Volver);
             this.Controls.Add(this.Guardar);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -150,6 +140,5 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button Guardar;
-        private System.Windows.Forms.Button Volver;
     }
 }

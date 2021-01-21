@@ -35,7 +35,6 @@
             this.listViewTrimestres = new System.Windows.Forms.ListView();
             this.label3 = new System.Windows.Forms.Label();
             this.Borrar = new System.Windows.Forms.Button();
-            this.Volver = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // listViewEstudiantes
@@ -43,6 +42,7 @@
             this.listViewEstudiantes.CheckBoxes = true;
             this.listViewEstudiantes.FullRowSelect = true;
             this.listViewEstudiantes.GridLines = true;
+            this.listViewEstudiantes.HideSelection = false;
             this.listViewEstudiantes.Location = new System.Drawing.Point(166, 82);
             this.listViewEstudiantes.Name = "listViewEstudiantes";
             this.listViewEstudiantes.Size = new System.Drawing.Size(578, 267);
@@ -80,6 +80,7 @@
             this.listViewTrimestres.CheckBoxes = true;
             this.listViewTrimestres.FullRowSelect = true;
             this.listViewTrimestres.GridLines = true;
+            this.listViewTrimestres.HideSelection = false;
             this.listViewTrimestres.Location = new System.Drawing.Point(166, 411);
             this.listViewTrimestres.Name = "listViewTrimestres";
             this.listViewTrimestres.Size = new System.Drawing.Size(578, 249);
@@ -98,7 +99,7 @@
             // 
             // Borrar
             // 
-            this.Borrar.Location = new System.Drawing.Point(304, 705);
+            this.Borrar.Location = new System.Drawing.Point(375, 692);
             this.Borrar.Name = "Borrar";
             this.Borrar.Size = new System.Drawing.Size(75, 23);
             this.Borrar.TabIndex = 6;
@@ -106,22 +107,11 @@
             this.Borrar.UseVisualStyleBackColor = true;
             this.Borrar.Click += new System.EventHandler(this.Borrar_Click);
             // 
-            // Volver
-            // 
-            this.Volver.Location = new System.Drawing.Point(447, 705);
-            this.Volver.Name = "Volver";
-            this.Volver.Size = new System.Drawing.Size(75, 23);
-            this.Volver.TabIndex = 7;
-            this.Volver.Text = "Volver";
-            this.Volver.UseVisualStyleBackColor = true;
-            this.Volver.Click += new System.EventHandler(this.Volver_Click);
-            // 
             // EliminarTrimestre
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 752);
-            this.Controls.Add(this.Volver);
             this.Controls.Add(this.Borrar);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.listViewTrimestres);
@@ -146,6 +136,5 @@
         private System.Windows.Forms.ListView listViewTrimestres;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button Borrar;
-        private System.Windows.Forms.Button Volver;
     }
 }

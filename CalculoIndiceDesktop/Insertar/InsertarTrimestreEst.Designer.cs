@@ -41,7 +41,6 @@
             this.textBoxBuscarAsig = new System.Windows.Forms.TextBox();
             this.label12 = new System.Windows.Forms.Label();
             this.buttonAgregar = new System.Windows.Forms.Button();
-            this.buttonVolver = new System.Windows.Forms.Button();
             this.label13 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.comboBoxAñoInicio = new System.Windows.Forms.ComboBox();
@@ -104,6 +103,7 @@
             this.listViewAsignaturas.CheckBoxes = true;
             this.listViewAsignaturas.FullRowSelect = true;
             this.listViewAsignaturas.GridLines = true;
+            this.listViewAsignaturas.HideSelection = false;
             this.listViewAsignaturas.Location = new System.Drawing.Point(148, 194);
             this.listViewAsignaturas.Name = "listViewAsignaturas";
             this.listViewAsignaturas.Size = new System.Drawing.Size(538, 216);
@@ -155,23 +155,13 @@
             // 
             // buttonAgregar
             // 
-            this.buttonAgregar.Location = new System.Drawing.Point(266, 484);
+            this.buttonAgregar.Location = new System.Drawing.Point(328, 508);
             this.buttonAgregar.Name = "buttonAgregar";
             this.buttonAgregar.Size = new System.Drawing.Size(75, 23);
             this.buttonAgregar.TabIndex = 22;
             this.buttonAgregar.Text = "Agregar";
             this.buttonAgregar.UseVisualStyleBackColor = true;
             this.buttonAgregar.Click += new System.EventHandler(this.ButtonAgregar_Click);
-            // 
-            // buttonVolver
-            // 
-            this.buttonVolver.Location = new System.Drawing.Point(372, 484);
-            this.buttonVolver.Name = "buttonVolver";
-            this.buttonVolver.Size = new System.Drawing.Size(75, 23);
-            this.buttonVolver.TabIndex = 23;
-            this.buttonVolver.Text = "Volver";
-            this.buttonVolver.UseVisualStyleBackColor = true;
-            this.buttonVolver.Click += new System.EventHandler(this.ButtonVolver_Click);
             // 
             // label13
             // 
@@ -208,7 +198,6 @@
             this.ClientSize = new System.Drawing.Size(727, 543);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label13);
-            this.Controls.Add(this.buttonVolver);
             this.Controls.Add(this.buttonAgregar);
             this.Controls.Add(this.label12);
             this.Controls.Add(this.textBoxBuscarAsig);
@@ -245,7 +234,6 @@
         private System.Windows.Forms.TextBox textBoxBuscarAsig;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Button buttonAgregar;
-        private System.Windows.Forms.Button buttonVolver;
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.ComboBox comboBoxAñoInicio;

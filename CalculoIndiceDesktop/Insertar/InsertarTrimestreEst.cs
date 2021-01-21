@@ -50,9 +50,9 @@ namespace Proyecto_Tecnicas
 
         private void PopulateComboBoxes()
         {
-            comboBoxMeses.Items.AddRange(new[] {"Enero-Marzo","Febrero-Abril","Mayo-Julio" ,"Agosto-Octubre", "Noviembre-Enero"});
-            comboBoxAñoInicio.Items.AddRange(new[] {"2019","2020","2021", "2022","2023", "2024", "2025", "2026", "2027", "2028", "2029", "2030"});
-            comboBoxAñoFin.Items.AddRange(new[] {"2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026", "2027", "2028", "2029", "2030"});
+            comboBoxMeses.Items.AddRange(new[] {"Noviembre-Enero", "Febrero-Abril", "Mayo-Julio","Agosto-Octubre"});
+            comboBoxAñoInicio.Items.AddRange(new[] {"2020","2021", "2022","2023", "2024", "2025", "2026", "2027", "2028", "2029", "2030"});
+            comboBoxAñoFin.Items.AddRange(new[] {"2020", "2021", "2022", "2023", "2024", "2025", "2026", "2027", "2028", "2029", "2030"});
         }
 
         private ListViewItem lastItemChecked;
@@ -70,7 +70,6 @@ namespace Proyecto_Tecnicas
                 }
             }
         }
-
 
         private void textBoxBuscarAsig_TextChanged(object sender, EventArgs e)
         {
@@ -100,13 +99,36 @@ namespace Proyecto_Tecnicas
 
         private void ButtonAgregar_Click(object sender, EventArgs e)
         {
-
+            
             if ((listViewAsignaturas.CheckedItems.Count < 0 || comboBoxAñoInicio.SelectedIndex == -1 || comboBoxAñoFin.SelectedIndex == -1 || comboBoxMeses.SelectedIndex == -1))
             {
                 MessageBox.Show("Uno o más campos estan sin llenar.");
                 return;
             }
-            
+
+            try
+            {
+                if (Convert.ToInt32(comboBoxAñoInicio.SelectedItem.ToString()) > Convert.ToInt32(comboBoxAñoFin.SelectedItem.ToString()))
+                {
+                    MessageBox.Show("No puede seleccionar un año Inicio mayor que el Final");
+                    return;
+                }
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("No puede seleccionar un año Inicio mayor que el Final");
+                return;
+            }
+
+            /*if (Convert.ToInt32(comboBoxAñoFin.SelectedItem.ToString()) != Convert.ToInt32(comboBoxAñoFin.SelectedItem.ToString()) + 1)
+            {
+                if (Convert.ToInt32(comboBoxAñoFin.SelectedItem.ToString()) != Convert.ToInt32(comboBoxAñoFin.SelectedItem.ToString()))
+                {
+                    MessageBox.Show("El rango de tiempo entre años es muy grande");
+
+                }
+            }*/
+
             Trimestre trim = new Trimestre();
 
             string meses = comboBoxMeses.SelectedItem.ToString();
@@ -131,9 +153,9 @@ namespace Proyecto_Tecnicas
             this.Close();
         }
 
-        private void ButtonVolver_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
+        //private void ButtonVolver_Click(object sender, EventArgs e)
+        //{
+        //    this.Close();
+        //}
     }
 }

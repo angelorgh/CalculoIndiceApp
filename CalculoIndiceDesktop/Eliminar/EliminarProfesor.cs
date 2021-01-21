@@ -70,9 +70,9 @@ namespace Proyecto_Tecnicas
             this.Close();
         }
 
-        private void Volver_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
+        //private void Volver_Click(object sender, EventArgs e)
+        //{
+        //    this.Close();
+        //}
     }
 }

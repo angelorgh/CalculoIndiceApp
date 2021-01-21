@@ -38,6 +38,7 @@
             // 
             this.listViewAsignaturas.FullRowSelect = true;
             this.listViewAsignaturas.GridLines = true;
+            this.listViewAsignaturas.HideSelection = false;
             this.listViewAsignaturas.Location = new System.Drawing.Point(75, 102);
             this.listViewAsignaturas.Name = "listViewAsignaturas";
             this.listViewAsignaturas.Size = new System.Drawing.Size(589, 306);
@@ -56,7 +57,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(304, 7);
+            this.label1.Location = new System.Drawing.Point(290, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(103, 13);
             this.label1.TabIndex = 4;
@@ -64,13 +65,13 @@
             // 
             // Volver
             // 
-            this.Volver.Location = new System.Drawing.Point(332, 446);
+            this.Volver.Location = new System.Drawing.Point(305, 447);
             this.Volver.Name = "Volver";
             this.Volver.Size = new System.Drawing.Size(75, 23);
             this.Volver.TabIndex = 5;
             this.Volver.Text = "Volver";
             this.Volver.UseVisualStyleBackColor = true;
-            this.Volver.Click += new System.EventHandler(this.Volver_Click);
+            //this.Volver.Click += new System.EventHandler(this.Volver_Click);
             // 
             // ModificarAsignatura
             // 
@@ -81,7 +82,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBoxBuscarAsig);
             this.Controls.Add(this.listViewAsignaturas);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "ModificarAsignatura";
             this.Text = "ModificarAsignatura";
             this.Load += new System.EventHandler(this.ListViewAsignaturas_Load);

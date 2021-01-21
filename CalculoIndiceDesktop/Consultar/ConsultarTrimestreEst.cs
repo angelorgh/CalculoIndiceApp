@@ -19,10 +19,10 @@ namespace Proyecto_Tecnicas
             InitializeComponent();
         }
 
-        private void Volver_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
+        //private void Volver_Click(object sender, EventArgs e)
+        //{
+        //    this.Close();
+        //}
 
         private void ConsultarTrimestre_Load(object sender, EventArgs e)
         {

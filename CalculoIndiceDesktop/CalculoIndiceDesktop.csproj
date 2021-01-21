@@ -354,6 +354,9 @@
     <EmbeddedResource Include="Modificar\ChildModificarProfesor.resx">
       <DependentUpon>ChildModificarProfesor.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Modificar\ChildModificarTrimestre.resx">
+      <DependentUpon>ChildModificarTrimestre.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Modificar\ModificarAsignatura.resx">
       <DependentUpon>ModificarAsignatura.cs</DependentUpon>
     </EmbeddedResource>
@@ -362,6 +365,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Modificar\ModificarProfesor.resx">
       <DependentUpon>ModificarProfesor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificar\ModificarTrimestre.resx">
+      <DependentUpon>ModificarTrimestre.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

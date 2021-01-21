@@ -30,7 +30,6 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.listViewEstudiantes = new System.Windows.Forms.ListView();
-            this.Volver = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -46,6 +45,7 @@
             // 
             this.listViewEstudiantes.FullRowSelect = true;
             this.listViewEstudiantes.GridLines = true;
+            this.listViewEstudiantes.HideSelection = false;
             this.listViewEstudiantes.Location = new System.Drawing.Point(69, 51);
             this.listViewEstudiantes.Name = "listViewEstudiantes";
             this.listViewEstudiantes.Size = new System.Drawing.Size(655, 397);
@@ -53,22 +53,11 @@
             this.listViewEstudiantes.UseCompatibleStateImageBehavior = false;
             this.listViewEstudiantes.View = System.Windows.Forms.View.Details;
             // 
-            // Volver
-            // 
-            this.Volver.Location = new System.Drawing.Point(347, 501);
-            this.Volver.Name = "Volver";
-            this.Volver.Size = new System.Drawing.Size(75, 23);
-            this.Volver.TabIndex = 2;
-            this.Volver.Text = "Volver";
-            this.Volver.UseVisualStyleBackColor = true;
-            this.Volver.Click += new System.EventHandler(this.Volver_Click);
-            // 
             // ConsultarRanking
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(788, 559);
-            this.Controls.Add(this.Volver);
             this.Controls.Add(this.listViewEstudiantes);
             this.Controls.Add(this.label1);
             this.Name = "ConsultarRanking";
@@ -83,6 +72,5 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.ListView listViewEstudiantes;
-        private System.Windows.Forms.Button Volver;
     }
 }

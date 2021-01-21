@@ -34,7 +34,6 @@
             this.textBoxBuscarEst = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.Borrar = new System.Windows.Forms.Button();
-            this.Volver = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -62,6 +61,7 @@
             // 
             this.listViewEstudiantes.CheckBoxes = true;
             this.listViewEstudiantes.GridLines = true;
+            this.listViewEstudiantes.HideSelection = false;
             this.listViewEstudiantes.Location = new System.Drawing.Point(148, 80);
             this.listViewEstudiantes.Name = "listViewEstudiantes";
             this.listViewEstudiantes.Size = new System.Drawing.Size(495, 307);
@@ -90,7 +90,7 @@
             // 
             // Borrar
             // 
-            this.Borrar.Location = new System.Drawing.Point(251, 404);
+            this.Borrar.Location = new System.Drawing.Point(315, 405);
             this.Borrar.Name = "Borrar";
             this.Borrar.Size = new System.Drawing.Size(75, 23);
             this.Borrar.TabIndex = 5;
@@ -98,22 +98,11 @@
             this.Borrar.UseVisualStyleBackColor = true;
             this.Borrar.Click += new System.EventHandler(this.Borrar_Click);
             // 
-            // Volver
-            // 
-            this.Volver.Location = new System.Drawing.Point(365, 404);
-            this.Volver.Name = "Volver";
-            this.Volver.Size = new System.Drawing.Size(75, 23);
-            this.Volver.TabIndex = 6;
-            this.Volver.Text = "Volver";
-            this.Volver.UseVisualStyleBackColor = true;
-            this.Volver.Click += new System.EventHandler(this.Volver_Click);
-            // 
             // EliminarEstudiante
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(682, 457);
-            this.Controls.Add(this.Volver);
             this.Controls.Add(this.Borrar);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.textBoxBuscarEst);
@@ -136,6 +125,5 @@
         private System.Windows.Forms.TextBox textBoxBuscarEst;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Button Borrar;
-        private System.Windows.Forms.Button Volver;
     }
 }

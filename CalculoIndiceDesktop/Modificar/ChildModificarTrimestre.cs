@@ -35,10 +35,10 @@ namespace Proyecto_Tecnicas
             listViewAsignaturas.AutoResizeColumns(ColumnHeaderAutoResizeStyle.HeaderSize);
         }
 
-        private void Volver_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
+        //private void Volver_Click(object sender, EventArgs e)
+        //{
+        //    this.Close();
+        //}
 
         private void Modificar_Click(object sender, EventArgs e)
         {

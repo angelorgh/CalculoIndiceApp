@@ -34,7 +34,6 @@
             this.textBoxBuscarProf = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.Borrar = new System.Windows.Forms.Button();
-            this.Volver = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // listViewProfesores
@@ -42,6 +41,7 @@
             this.listViewProfesores.CheckBoxes = true;
             this.listViewProfesores.FullRowSelect = true;
             this.listViewProfesores.GridLines = true;
+            this.listViewProfesores.HideSelection = false;
             this.listViewProfesores.Location = new System.Drawing.Point(156, 95);
             this.listViewProfesores.Name = "listViewProfesores";
             this.listViewProfesores.Size = new System.Drawing.Size(506, 286);
@@ -52,7 +52,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(371, 18);
+            this.label1.Location = new System.Drawing.Point(348, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(88, 13);
             this.label1.TabIndex = 1;
@@ -85,7 +85,7 @@
             // 
             // Borrar
             // 
-            this.Borrar.Location = new System.Drawing.Point(286, 437);
+            this.Borrar.Location = new System.Drawing.Point(351, 436);
             this.Borrar.Name = "Borrar";
             this.Borrar.Size = new System.Drawing.Size(75, 23);
             this.Borrar.TabIndex = 5;
@@ -93,22 +93,11 @@
             this.Borrar.UseVisualStyleBackColor = true;
             this.Borrar.Click += new System.EventHandler(this.Borrar_Click);
             // 
-            // Volver
-            // 
-            this.Volver.Location = new System.Drawing.Point(412, 437);
-            this.Volver.Name = "Volver";
-            this.Volver.Size = new System.Drawing.Size(75, 23);
-            this.Volver.TabIndex = 6;
-            this.Volver.Text = "Volver";
-            this.Volver.UseVisualStyleBackColor = true;
-            this.Volver.Click += new System.EventHandler(this.Volver_Click);
-            // 
             // EliminarProfesor
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 509);
-            this.Controls.Add(this.Volver);
             this.Controls.Add(this.Borrar);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.textBoxBuscarProf);
@@ -131,6 +120,5 @@
         private System.Windows.Forms.TextBox textBoxBuscarProf;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button Borrar;
-        private System.Windows.Forms.Button Volver;
     }
 }
