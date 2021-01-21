@@ -66,6 +66,7 @@
             // 
             // comboBoxMeses
             // 
+            this.comboBoxMeses.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBoxMeses.FormattingEnabled = true;
             this.comboBoxMeses.Location = new System.Drawing.Point(215, 68);
             this.comboBoxMeses.Name = "comboBoxMeses";
@@ -74,6 +75,7 @@
             // 
             // comboBoxAñoFin
             // 
+            this.comboBoxAñoFin.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBoxAñoFin.FormattingEnabled = true;
             this.comboBoxAñoFin.Location = new System.Drawing.Point(480, 138);
             this.comboBoxAñoFin.Name = "comboBoxAñoFin";
@@ -184,6 +186,7 @@
             // 
             // comboBoxAñoInicio
             // 
+            this.comboBoxAñoInicio.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBoxAñoInicio.FormattingEnabled = true;
             this.comboBoxAñoInicio.Location = new System.Drawing.Point(215, 138);
             this.comboBoxAñoInicio.Name = "comboBoxAñoInicio";

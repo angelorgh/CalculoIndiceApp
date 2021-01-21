@@ -43,7 +43,9 @@ namespace Proyecto_Tecnicas
 
             foreach (var est in sorted)
             {
-                listViewEstudiantes.Items.Add(new ListViewItem(new[] {est.ID, est.Nombre, est.Carrera, est.IndiceGeneral.ToString(), est.Honores }));
+                double indice = (est.IndiceGeneral > 0) ? est.IndiceGeneral : 0;
+                string honores = (!String.IsNullOrEmpty(est.Honores)) ? est.Honores : "N/H";
+                listViewEstudiantes.Items.Add(new ListViewItem(new[] {est.ID, est.Nombre, est.Carrera, indice.ToString(), honores}));
             }
             listViewEstudiantes.AutoResizeColumns(ColumnHeaderAutoResizeStyle.ColumnContent);
             listViewEstudiantes.AutoResizeColumns(ColumnHeaderAutoResizeStyle.HeaderSize);
