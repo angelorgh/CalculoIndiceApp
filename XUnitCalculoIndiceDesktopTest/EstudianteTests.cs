@@ -28,8 +28,8 @@ namespace XUnitCalculoIndiceDesktopTest
         public void AgregarEstudiante_Completes_Without_Exception()
         {
             Estudiante estudiante = new Estudiante("1085855", "Gabriel", "Psicologia");
-            //Assert.True(estudiante.AgregarEstudiante());
-            //Assert.Contains(estudiante, Estudiante.Estudiantes);
+            Assert.True(estudiante.AgregarEstudiante());
+            Assert.Contains(estudiante, Estudiante.Estudiantes);
         }
         [Fact]
         public void BorrarEstudiantes_Completes_Without_Exception()

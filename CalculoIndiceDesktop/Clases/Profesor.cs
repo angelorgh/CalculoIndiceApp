@@ -49,14 +49,32 @@ namespace Proyecto_Tecnicas
             this.ID = ID;
             this.Nombre = Nombre;
         }
-        public void AgregarProfesor()
+        public bool AgregarProfesor()
         {
-            Profesores.Add(this);
+            try
+            {
+                Profesores.Add(this);
+                return true;
+            }
+            catch (Exception)
+            {
+                return false;
+                throw;
+            }
         }
 
-        public static void BorrarProfesor(string ID)
+        public static bool BorrarProfesor(string ID)
         {
-            Profesor.Profesores.RemoveAll(r => r.ID == ID);
+            try
+            {
+                Profesor.Profesores.RemoveAll(r => r.ID == ID);
+                return true;
+            }
+            catch (Exception)
+            {
+                return false;
+                throw;
+            }
         }
 
         public static int BuscarProfesor(string ID)
