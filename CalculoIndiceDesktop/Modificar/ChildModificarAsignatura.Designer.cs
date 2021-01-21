@@ -87,9 +87,11 @@
             // textBoxCreditos
             // 
             this.textBoxCreditos.Location = new System.Drawing.Point(124, 237);
+            this.textBoxCreditos.MaxLength = 1;
             this.textBoxCreditos.Name = "textBoxCreditos";
             this.textBoxCreditos.Size = new System.Drawing.Size(250, 20);
             this.textBoxCreditos.TabIndex = 12;
+            this.textBoxCreditos.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBoxCreditos_KeyPress);
             // 
             // textBoxNombre
             // 
@@ -119,7 +121,7 @@
             this.Controls.Add(this.textBoxNombre);
             this.Controls.Add(this.textBoxClave);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "ChildModificarAsignatura";
             this.Text = "ChildModificarAsignatura";
             this.ResumeLayout(false);

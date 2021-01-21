@@ -43,15 +43,24 @@ namespace Proyecto_Tecnicas
             if (string.IsNullOrWhiteSpace(textBoxNombre.Text) || string.IsNullOrWhiteSpace(textBoxCreditos.Text))
             {
                 MessageBox.Show("Uno de los campos esta vacio.");
+                return;
             }
-            else
+
+            if (Int32.Parse(textBoxCreditos.Text) > 5 || Int32.Parse(textBoxCreditos.Text) < 0)
             {
-                Asignatura.Asignaturas[asigIndex].Nombre = textBoxNombre.Text;
-                Asignatura.Asignaturas[asigIndex].Credito = Int32.Parse(textBoxCreditos.Text);
-                this.Close();
+                MessageBox.Show("Los creditos no pueden superar a 5 o ser menor que 0.");
+                return;
             }
+            
+            Asignatura.Asignaturas[asigIndex].Nombre = textBoxNombre.Text;
+            Asignatura.Asignaturas[asigIndex].Credito = Int32.Parse(textBoxCreditos.Text);
+            this.Close();
+            
         }
 
-        
+        private void textBoxCreditos_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = !(char.IsDigit(e.KeyChar) || e.KeyChar == (char)Keys.Back);
+        }
     }
 }
