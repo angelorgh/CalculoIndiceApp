@@ -38,13 +38,28 @@ namespace Proyecto_Tecnicas
             if (string.IsNullOrWhiteSpace(textBoxNombre.Text) || string.IsNullOrWhiteSpace(textBoxCarrera.Text))
             {
                 MessageBox.Show("Uno de los campos esta vacio.");
+                return;
             }
-            else
+
+            string carrera = textBoxCarrera.Text;
+
+            foreach (char c in carrera)
             {
-                Estudiante.Estudiantes[estIndex].Nombre = textBoxNombre.Text;
-                Estudiante.Estudiantes[estIndex].Carrera = textBoxCarrera.Text;
-                this.Close();
+                if (c == '1' || c == '2' || c == '3' || c == '4' || c == '5' || c == '6' || c == '7' || c == '8' || c == '9' || c == '0')
+                {
+                    MessageBox.Show("La carrera está en formato incorrecto.");
+                    return;
+                }
             }
+
+            Estudiante.Estudiantes[estIndex].Nombre = textBoxNombre.Text;
+            Estudiante.Estudiantes[estIndex].Carrera = textBoxCarrera.Text;
+            this.Close();
+        }
+
+        private void textBoxCarrera_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = !(char.IsLetter(e.KeyChar) || e.KeyChar == (char)Keys.Back);
         }
     }
 

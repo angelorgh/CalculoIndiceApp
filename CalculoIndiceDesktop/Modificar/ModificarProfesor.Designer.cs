@@ -31,7 +31,6 @@
             this.textBoxBuscarProf = new System.Windows.Forms.TextBox();
             this.listViewProfesores = new System.Windows.Forms.ListView();
             this.label1 = new System.Windows.Forms.Label();
-            this.Volver = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // textBoxBuscarProf
@@ -63,22 +62,11 @@
             this.label1.TabIndex = 3;
             this.label1.Text = "Modificar Profesores";
             // 
-            // Volver
-            // 
-            this.Volver.Location = new System.Drawing.Point(302, 445);
-            this.Volver.Name = "Volver";
-            this.Volver.Size = new System.Drawing.Size(75, 23);
-            this.Volver.TabIndex = 6;
-            this.Volver.Text = "Volver";
-            this.Volver.UseVisualStyleBackColor = true;
-            //this.Volver.Click += new System.EventHandler(this.Volver_Click);
-            // 
             // ModificarProfesor
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(700, 505);
-            this.Controls.Add(this.Volver);
             this.Controls.Add(this.textBoxBuscarProf);
             this.Controls.Add(this.listViewProfesores);
             this.Controls.Add(this.label1);
@@ -96,6 +84,5 @@
         private System.Windows.Forms.TextBox textBoxBuscarProf;
         private System.Windows.Forms.ListView listViewProfesores;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button Volver;
     }
 }

@@ -31,7 +31,6 @@
             this.label1 = new System.Windows.Forms.Label();
             this.listViewEstudiantes = new System.Windows.Forms.ListView();
             this.textBoxBuscarEst = new System.Windows.Forms.TextBox();
-            this.Volver = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -63,22 +62,11 @@
             this.textBoxBuscarEst.Size = new System.Drawing.Size(151, 20);
             this.textBoxBuscarEst.TabIndex = 2;
             // 
-            // Volver
-            // 
-            this.Volver.Location = new System.Drawing.Point(328, 445);
-            this.Volver.Name = "Volver";
-            this.Volver.Size = new System.Drawing.Size(75, 23);
-            this.Volver.TabIndex = 3;
-            this.Volver.Text = "Volver";
-            this.Volver.UseVisualStyleBackColor = true;
-            //this.Volver.Click += new System.EventHandler(this.Volver_Click);
-            // 
             // ModificarEstudiante
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(759, 531);
-            this.Controls.Add(this.Volver);
             this.Controls.Add(this.textBoxBuscarEst);
             this.Controls.Add(this.listViewEstudiantes);
             this.Controls.Add(this.label1);
@@ -95,6 +83,5 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.ListView listViewEstudiantes;
         private System.Windows.Forms.TextBox textBoxBuscarEst;
-        private System.Windows.Forms.Button Volver;
     }
 }

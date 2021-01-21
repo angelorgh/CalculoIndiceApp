@@ -31,7 +31,6 @@
             this.listViewAsignaturas = new System.Windows.Forms.ListView();
             this.textBoxBuscarAsig = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.Volver = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // listViewAsignaturas
@@ -63,22 +62,11 @@
             this.label1.TabIndex = 4;
             this.label1.Text = "Modificar Asignatura";
             // 
-            // Volver
-            // 
-            this.Volver.Location = new System.Drawing.Point(305, 447);
-            this.Volver.Name = "Volver";
-            this.Volver.Size = new System.Drawing.Size(75, 23);
-            this.Volver.TabIndex = 5;
-            this.Volver.Text = "Volver";
-            this.Volver.UseVisualStyleBackColor = true;
-            //this.Volver.Click += new System.EventHandler(this.Volver_Click);
-            // 
             // ModificarAsignatura
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(718, 498);
-            this.Controls.Add(this.Volver);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBoxBuscarAsig);
             this.Controls.Add(this.listViewAsignaturas);
@@ -96,6 +84,5 @@
         private System.Windows.Forms.ListView listViewAsignaturas;
         private System.Windows.Forms.TextBox textBoxBuscarAsig;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button Volver;
     }
 }

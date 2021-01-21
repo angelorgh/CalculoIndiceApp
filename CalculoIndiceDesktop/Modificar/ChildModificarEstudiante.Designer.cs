@@ -56,10 +56,13 @@
             // 
             // textBoxCarrera
             // 
+            this.textBoxCarrera.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
             this.textBoxCarrera.Location = new System.Drawing.Point(105, 282);
+            this.textBoxCarrera.MaxLength = 3;
             this.textBoxCarrera.Name = "textBoxCarrera";
             this.textBoxCarrera.Size = new System.Drawing.Size(250, 20);
             this.textBoxCarrera.TabIndex = 2;
+            this.textBoxCarrera.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBoxCarrera_KeyPress);
             // 
             // label1
             // 
