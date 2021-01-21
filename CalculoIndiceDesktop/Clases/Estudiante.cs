@@ -95,9 +95,19 @@ namespace Proyecto_Tecnicas
             this.Nombre = Nombre;
             this.Carrera = Carrera;
         }
-        public void AgregarEstudiante()
+        public bool AgregarEstudiante()
         {
-            Estudiantes.Add(this);
+            try
+            {
+                Estudiantes.Add(this);
+                return true;
+            }
+            catch (Exception)
+            {
+                return false;
+                throw;
+            }
+            
         }
 
         public static void BorrarEstudiante(string ID)
