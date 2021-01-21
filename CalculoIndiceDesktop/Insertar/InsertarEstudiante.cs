@@ -14,10 +14,10 @@ namespace Proyecto_Tecnicas
             InitializeComponent();
         }
 
-        private void ButtonVolver_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
+        //private void ButtonVolver_Click(object sender, EventArgs e)
+        //{
+        //    this.Close();
+        //}
 
         //string cs = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|Login.mdf;Integrated Security=True";
         static string path2 = Environment.CurrentDirectory;

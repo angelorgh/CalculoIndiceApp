@@ -175,10 +175,10 @@ namespace Proyecto_Tecnicas
             this.Close();
         }
 
-        private void ButtonVolver_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
+        //private void ButtonVolver_Click(object sender, EventArgs e)
+        //{
+        //    this.Close();
+        //}
 
         private Asignatura Clone(Asignatura asig)
         {

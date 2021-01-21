@@ -45,6 +45,7 @@
             // 
             this.listViewProfesores.FullRowSelect = true;
             this.listViewProfesores.GridLines = true;
+            this.listViewProfesores.HideSelection = false;
             this.listViewProfesores.Location = new System.Drawing.Point(56, 108);
             this.listViewProfesores.Name = "listViewProfesores";
             this.listViewProfesores.Size = new System.Drawing.Size(589, 306);
@@ -64,13 +65,13 @@
             // 
             // Volver
             // 
-            this.Volver.Location = new System.Drawing.Point(318, 448);
+            this.Volver.Location = new System.Drawing.Point(302, 445);
             this.Volver.Name = "Volver";
             this.Volver.Size = new System.Drawing.Size(75, 23);
             this.Volver.TabIndex = 6;
             this.Volver.Text = "Volver";
             this.Volver.UseVisualStyleBackColor = true;
-            this.Volver.Click += new System.EventHandler(this.Volver_Click);
+            //this.Volver.Click += new System.EventHandler(this.Volver_Click);
             // 
             // ModificarProfesor
             // 
@@ -81,7 +82,7 @@
             this.Controls.Add(this.textBoxBuscarProf);
             this.Controls.Add(this.listViewProfesores);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "ModificarProfesor";
             this.Text = "ModificarProfesor";
             this.Load += new System.EventHandler(this.ModificarProfesor_Load);

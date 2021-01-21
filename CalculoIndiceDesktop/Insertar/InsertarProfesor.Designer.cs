@@ -32,7 +32,6 @@
             this.NombreProfesor = new System.Windows.Forms.Label();
             this.textBoxNombreProf = new System.Windows.Forms.TextBox();
             this.Agregar = new System.Windows.Forms.Button();
-            this.Volver = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.textBoxPassword = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
@@ -71,23 +70,13 @@
             // Agregar
             // 
             this.Agregar.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
-            this.Agregar.Location = new System.Drawing.Point(50, 168);
+            this.Agregar.Location = new System.Drawing.Point(99, 174);
             this.Agregar.Name = "Agregar";
             this.Agregar.Size = new System.Drawing.Size(75, 23);
             this.Agregar.TabIndex = 5;
             this.Agregar.Text = "Agregar";
             this.Agregar.UseVisualStyleBackColor = true;
             this.Agregar.Click += new System.EventHandler(this.Agregar_Click);
-            // 
-            // Volver
-            // 
-            this.Volver.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
-            this.Volver.Location = new System.Drawing.Point(145, 168);
-            this.Volver.Name = "Volver";
-            this.Volver.Size = new System.Drawing.Size(75, 23);
-            this.Volver.TabIndex = 6;
-            this.Volver.Text = "Volver";
-            this.Volver.UseVisualStyleBackColor = true;
             // 
             // label2
             // 
@@ -118,7 +107,6 @@
             this.ClientSize = new System.Drawing.Size(282, 209);
             this.Controls.Add(this.textBoxPassword);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.Volver);
             this.Controls.Add(this.Agregar);
             this.Controls.Add(this.textBoxNombreProf);
             this.Controls.Add(this.NombreProfesor);
@@ -137,7 +125,6 @@
         private System.Windows.Forms.Label NombreProfesor;
         private System.Windows.Forms.TextBox textBoxNombreProf;
         private System.Windows.Forms.Button Agregar;
-        private System.Windows.Forms.Button Volver;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox textBoxPassword;
     }

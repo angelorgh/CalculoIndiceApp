@@ -81,9 +81,9 @@ namespace Proyecto_Tecnicas
             searchDataProf(textBoxBuscarProf.Text);
         }
 
-        private void Volver_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
+        //private void Volver_Click(object sender, EventArgs e)
+        //{
+        //    this.Close();
+        //}
     }
 }

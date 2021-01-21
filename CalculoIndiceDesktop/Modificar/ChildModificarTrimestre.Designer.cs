@@ -31,7 +31,6 @@
             this.listViewAsignaturas = new System.Windows.Forms.ListView();
             this.label1 = new System.Windows.Forms.Label();
             this.Modificar = new System.Windows.Forms.Button();
-            this.Volver = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // listViewAsignaturas
@@ -39,6 +38,7 @@
             this.listViewAsignaturas.CheckBoxes = true;
             this.listViewAsignaturas.FullRowSelect = true;
             this.listViewAsignaturas.GridLines = true;
+            this.listViewAsignaturas.HideSelection = false;
             this.listViewAsignaturas.Location = new System.Drawing.Point(68, 74);
             this.listViewAsignaturas.Name = "listViewAsignaturas";
             this.listViewAsignaturas.Size = new System.Drawing.Size(519, 364);
@@ -57,7 +57,7 @@
             // 
             // Modificar
             // 
-            this.Modificar.Location = new System.Drawing.Point(211, 513);
+            this.Modificar.Location = new System.Drawing.Point(278, 512);
             this.Modificar.Name = "Modificar";
             this.Modificar.Size = new System.Drawing.Size(75, 23);
             this.Modificar.TabIndex = 2;
@@ -65,22 +65,11 @@
             this.Modificar.UseVisualStyleBackColor = true;
             this.Modificar.Click += new System.EventHandler(this.Modificar_Click);
             // 
-            // Volver
-            // 
-            this.Volver.Location = new System.Drawing.Point(332, 513);
-            this.Volver.Name = "Volver";
-            this.Volver.Size = new System.Drawing.Size(75, 23);
-            this.Volver.TabIndex = 3;
-            this.Volver.Text = "Volver";
-            this.Volver.UseVisualStyleBackColor = true;
-            this.Volver.Click += new System.EventHandler(this.Volver_Click);
-            // 
             // ChildModificarTrimestre
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(663, 579);
-            this.Controls.Add(this.Volver);
             this.Controls.Add(this.Modificar);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.listViewAsignaturas);
@@ -96,6 +85,5 @@
         private System.Windows.Forms.ListView listViewAsignaturas;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button Modificar;
-        private System.Windows.Forms.Button Volver;
     }
 }

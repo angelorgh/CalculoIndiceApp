@@ -33,7 +33,6 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.Borrar = new System.Windows.Forms.Button();
-            this.Volver = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
@@ -42,6 +41,7 @@
             this.listViewAsignaturas.CheckBoxes = true;
             this.listViewAsignaturas.FullRowSelect = true;
             this.listViewAsignaturas.GridLines = true;
+            this.listViewAsignaturas.HideSelection = false;
             this.listViewAsignaturas.Location = new System.Drawing.Point(139, 97);
             this.listViewAsignaturas.Name = "listViewAsignaturas";
             this.listViewAsignaturas.Size = new System.Drawing.Size(527, 267);
@@ -76,23 +76,13 @@
             // 
             // Borrar
             // 
-            this.Borrar.Location = new System.Drawing.Point(283, 409);
+            this.Borrar.Location = new System.Drawing.Point(353, 409);
             this.Borrar.Name = "Borrar";
             this.Borrar.Size = new System.Drawing.Size(75, 23);
             this.Borrar.TabIndex = 4;
             this.Borrar.Text = "Borrar";
             this.Borrar.UseVisualStyleBackColor = true;
             this.Borrar.Click += new System.EventHandler(this.Borrar_Click);
-            // 
-            // Volver
-            // 
-            this.Volver.Location = new System.Drawing.Point(426, 409);
-            this.Volver.Name = "Volver";
-            this.Volver.Size = new System.Drawing.Size(75, 23);
-            this.Volver.TabIndex = 5;
-            this.Volver.Text = "Volver";
-            this.Volver.UseVisualStyleBackColor = true;
-            this.Volver.Click += new System.EventHandler(this.Volver_Click);
             // 
             // label2
             // 
@@ -109,7 +99,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 473);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.Volver);
             this.Controls.Add(this.Borrar);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label1);
@@ -130,7 +119,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Button Borrar;
-        private System.Windows.Forms.Button Volver;
         private System.Windows.Forms.Label label2;
     }
 }

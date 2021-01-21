@@ -47,6 +47,7 @@
             // 
             this.listViewEstudiantes.FullRowSelect = true;
             this.listViewEstudiantes.GridLines = true;
+            this.listViewEstudiantes.HideSelection = false;
             this.listViewEstudiantes.Location = new System.Drawing.Point(82, 84);
             this.listViewEstudiantes.Name = "listViewEstudiantes";
             this.listViewEstudiantes.Size = new System.Drawing.Size(589, 306);
@@ -64,13 +65,13 @@
             // 
             // Volver
             // 
-            this.Volver.Location = new System.Drawing.Point(338, 474);
+            this.Volver.Location = new System.Drawing.Point(328, 445);
             this.Volver.Name = "Volver";
             this.Volver.Size = new System.Drawing.Size(75, 23);
             this.Volver.TabIndex = 3;
             this.Volver.Text = "Volver";
             this.Volver.UseVisualStyleBackColor = true;
-            this.Volver.Click += new System.EventHandler(this.Volver_Click);
+            //this.Volver.Click += new System.EventHandler(this.Volver_Click);
             // 
             // ModificarEstudiante
             // 

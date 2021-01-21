@@ -20,10 +20,10 @@ namespace Proyecto_Tecnicas
 
 
 
-        private void Volver_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
+        //private void Volver_Click(object sender, EventArgs e)
+        //{
+        //    this.Close();
+        //}
 
         private void Agregar_Click(object sender, EventArgs e)
         {

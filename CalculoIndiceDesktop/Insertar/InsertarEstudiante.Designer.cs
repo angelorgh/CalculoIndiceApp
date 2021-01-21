@@ -34,7 +34,6 @@
             this.textBoxEstNombre = new System.Windows.Forms.TextBox();
             this.textBoxEstCarrera = new System.Windows.Forms.TextBox();
             this.buttonAgregar = new System.Windows.Forms.Button();
-            this.buttonVolver = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.textBoxPassword = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
@@ -94,24 +93,13 @@
             // buttonAgregar
             // 
             this.buttonAgregar.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
-            this.buttonAgregar.Location = new System.Drawing.Point(62, 243);
+            this.buttonAgregar.Location = new System.Drawing.Point(115, 248);
             this.buttonAgregar.Name = "buttonAgregar";
             this.buttonAgregar.Size = new System.Drawing.Size(75, 23);
             this.buttonAgregar.TabIndex = 7;
             this.buttonAgregar.Text = "Agregar";
             this.buttonAgregar.UseVisualStyleBackColor = true;
             this.buttonAgregar.Click += new System.EventHandler(this.ButtonAgregar_Click);
-            // 
-            // buttonVolver
-            // 
-            this.buttonVolver.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
-            this.buttonVolver.Location = new System.Drawing.Point(156, 243);
-            this.buttonVolver.Name = "buttonVolver";
-            this.buttonVolver.Size = new System.Drawing.Size(75, 23);
-            this.buttonVolver.TabIndex = 8;
-            this.buttonVolver.Text = "Volver";
-            this.buttonVolver.UseVisualStyleBackColor = true;
-            this.buttonVolver.Click += new System.EventHandler(this.ButtonVolver_Click);
             // 
             // label2
             // 
@@ -142,7 +130,6 @@
             this.ClientSize = new System.Drawing.Size(305, 301);
             this.Controls.Add(this.textBoxPassword);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.buttonVolver);
             this.Controls.Add(this.buttonAgregar);
             this.Controls.Add(this.textBoxEstCarrera);
             this.Controls.Add(this.textBoxEstNombre);
@@ -164,7 +151,6 @@
         private System.Windows.Forms.TextBox textBoxEstNombre;
         private System.Windows.Forms.TextBox textBoxEstCarrera;
         private System.Windows.Forms.Button buttonAgregar;
-        private System.Windows.Forms.Button buttonVolver;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox textBoxPassword;
     }

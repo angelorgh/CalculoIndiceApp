@@ -148,10 +148,10 @@ namespace Proyecto_Tecnicas
             formModTrim.ShowDialog();
         }
 
-        private void Volver_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
+        //private void Volver_Click(object sender, EventArgs e)
+        //{
+        //    this.Close();
+        //}
 
         
     }

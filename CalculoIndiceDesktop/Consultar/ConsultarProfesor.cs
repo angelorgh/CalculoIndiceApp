@@ -17,10 +17,10 @@ namespace Proyecto_Tecnicas
             InitializeComponent();
         }
 
-        private void ButtonVolver_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
+        //private void ButtonVolver_Click(object sender, EventArgs e)
+        //{
+        //    this.Close();
+        //}
 
         private void ListProfesores_Load(object sender, EventArgs e)
         {

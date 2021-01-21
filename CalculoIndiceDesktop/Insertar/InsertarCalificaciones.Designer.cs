@@ -32,7 +32,6 @@
             this.label2 = new System.Windows.Forms.Label();
             this.listViewEstudiantes = new System.Windows.Forms.ListView();
             this.label3 = new System.Windows.Forms.Label();
-            this.Volver = new System.Windows.Forms.Button();
             this.listViewTrimestres = new System.Windows.Forms.ListView();
             this.textBoxBuscarEst = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
@@ -66,6 +65,7 @@
             this.listViewEstudiantes.CheckBoxes = true;
             this.listViewEstudiantes.FullRowSelect = true;
             this.listViewEstudiantes.GridLines = true;
+            this.listViewEstudiantes.HideSelection = false;
             this.listViewEstudiantes.Location = new System.Drawing.Point(139, 80);
             this.listViewEstudiantes.Name = "listViewEstudiantes";
             this.listViewEstudiantes.Size = new System.Drawing.Size(493, 196);
@@ -84,17 +84,6 @@
             this.label3.TabIndex = 3;
             this.label3.Text = "Seleccione un Trimestre";
             // 
-            // Volver
-            // 
-            this.Volver.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
-            this.Volver.Location = new System.Drawing.Point(305, 623);
-            this.Volver.Name = "Volver";
-            this.Volver.Size = new System.Drawing.Size(75, 23);
-            this.Volver.TabIndex = 6;
-            this.Volver.Text = "Volver";
-            this.Volver.UseVisualStyleBackColor = true;
-            this.Volver.Click += new System.EventHandler(this.Volver_Click);
-            // 
             // listViewTrimestres
             // 
             this.listViewTrimestres.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
@@ -103,6 +92,7 @@
             this.listViewTrimestres.CausesValidation = false;
             this.listViewTrimestres.FullRowSelect = true;
             this.listViewTrimestres.GridLines = true;
+            this.listViewTrimestres.HideSelection = false;
             this.listViewTrimestres.Location = new System.Drawing.Point(139, 356);
             this.listViewTrimestres.Name = "listViewTrimestres";
             this.listViewTrimestres.Size = new System.Drawing.Size(493, 213);
@@ -137,7 +127,6 @@
             this.Controls.Add(this.label4);
             this.Controls.Add(this.textBoxBuscarEst);
             this.Controls.Add(this.listViewTrimestres);
-            this.Controls.Add(this.Volver);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.listViewEstudiantes);
             this.Controls.Add(this.label2);
@@ -156,7 +145,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.ListView listViewEstudiantes;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Button Volver;
         private System.Windows.Forms.ListView listViewTrimestres;
         private System.Windows.Forms.TextBox textBoxBuscarEst;
         private System.Windows.Forms.Label label4;

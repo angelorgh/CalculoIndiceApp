@@ -36,7 +36,6 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
-            this.Volver = new System.Windows.Forms.Button();
             this.Modificar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -106,19 +105,9 @@
             this.label5.TabIndex = 7;
             this.label5.Text = "ID";
             // 
-            // Volver
-            // 
-            this.Volver.Location = new System.Drawing.Point(205, 337);
-            this.Volver.Name = "Volver";
-            this.Volver.Size = new System.Drawing.Size(75, 23);
-            this.Volver.TabIndex = 8;
-            this.Volver.Text = "Volver";
-            this.Volver.UseVisualStyleBackColor = true;
-            this.Volver.Click += new System.EventHandler(this.Volver_Click);
-            // 
             // Modificar
             // 
-            this.Modificar.Location = new System.Drawing.Point(109, 337);
+            this.Modificar.Location = new System.Drawing.Point(165, 335);
             this.Modificar.Name = "Modificar";
             this.Modificar.Size = new System.Drawing.Size(75, 23);
             this.Modificar.TabIndex = 9;
@@ -132,7 +121,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(394, 389);
             this.Controls.Add(this.Modificar);
-            this.Controls.Add(this.Volver);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -158,7 +146,6 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Button Volver;
         private System.Windows.Forms.Button Modificar;
     }
 }

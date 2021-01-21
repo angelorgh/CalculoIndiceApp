@@ -36,7 +36,6 @@
             this.textBoxNombreAsig = new System.Windows.Forms.TextBox();
             this.textBoxCreditosAsig = new System.Windows.Forms.TextBox();
             this.Agregar = new System.Windows.Forms.Button();
-            this.Volver = new System.Windows.Forms.Button();
             this.textBoxClaveAsig2 = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
@@ -121,24 +120,13 @@
             // Agregar
             // 
             this.Agregar.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
-            this.Agregar.Location = new System.Drawing.Point(47, 207);
+            this.Agregar.Location = new System.Drawing.Point(92, 220);
             this.Agregar.Name = "Agregar";
             this.Agregar.Size = new System.Drawing.Size(75, 23);
             this.Agregar.TabIndex = 7;
             this.Agregar.Text = "Agregar";
             this.Agregar.UseVisualStyleBackColor = true;
             this.Agregar.Click += new System.EventHandler(this.Agregar_Click);
-            // 
-            // Volver
-            // 
-            this.Volver.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
-            this.Volver.Location = new System.Drawing.Point(153, 207);
-            this.Volver.Name = "Volver";
-            this.Volver.Size = new System.Drawing.Size(75, 23);
-            this.Volver.TabIndex = 8;
-            this.Volver.Text = "Volver";
-            this.Volver.UseVisualStyleBackColor = true;
-            this.Volver.Click += new System.EventHandler(this.Volver_Click);
             // 
             // textBoxClaveAsig2
             // 
@@ -171,7 +159,6 @@
             this.ClientSize = new System.Drawing.Size(282, 255);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.textBoxClaveAsig2);
-            this.Controls.Add(this.Volver);
             this.Controls.Add(this.Agregar);
             this.Controls.Add(this.textBoxCreditosAsig);
             this.Controls.Add(this.textBoxNombreAsig);
@@ -199,7 +186,6 @@
         private System.Windows.Forms.TextBox textBoxNombreAsig;
         private System.Windows.Forms.TextBox textBoxCreditosAsig;
         private System.Windows.Forms.Button Agregar;
-        private System.Windows.Forms.Button Volver;
         private System.Windows.Forms.TextBox textBoxClaveAsig2;
         private System.Windows.Forms.Label label2;
     }
