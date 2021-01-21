@@ -120,12 +120,12 @@ namespace Proyecto_Tecnicas
                 return;
             }
 
-            /*if (Convert.ToInt32(comboBoxAñoFin.SelectedItem.ToString()) != Convert.ToInt32(comboBoxAñoFin.SelectedItem.ToString()) + 1)
+/*            if (Convert.ToInt32(comboBoxAñoFin.SelectedItem.ToString()) != Convert.ToInt32(comboBoxAñoFin.SelectedItem.ToString()) + 1)
             {
                 if (Convert.ToInt32(comboBoxAñoFin.SelectedItem.ToString()) != Convert.ToInt32(comboBoxAñoFin.SelectedItem.ToString()))
                 {
-                    MessageBox.Show("El rango de tiempo entre años es muy grande");
-
+                    MessageBox.Show("El rango de tiempo entre años es muy grande.");
+                    return;
                 }
             }*/
 
