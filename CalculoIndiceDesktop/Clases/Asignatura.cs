@@ -16,60 +16,6 @@ namespace Proyecto_Tecnicas
         public static List<Asignatura> Asignaturas = new List<Asignatura>();
         public int Nota;
 
-        //private string clave;
-        //public string Clave
-        //{
-        //    get
-        //    {
-        //        return this.clave;
-        //    }
-        //    set
-        //    {
-        //        this.clave = value;
-        //    }
-        //}
-
-        //private string nombre;
-        //public string Nombre
-        //{
-        //    get
-        //    {
-        //        return this.nombre;
-        //    }
-        //    set
-        //    {
-        //        this.nombre = value;
-        //    }
-        //}
-
-        //private int credito;
-        //public int Credito
-        //{
-        //    get
-        //    {
-        //        return this.credito;
-        //    }
-        //    set
-        //    {
-        //        this.credito = value;
-        //    }
-        //}
-
-        //private int nota;
-        //public int Nota
-        //{
-        //    get
-        //    {
-        //        return this.nota;
-        //    }
-        //    set
-        //    {
-        //        this.nota = value;
-        //    }
-        //}
-
-        //public static List<Asignatura> Asignaturas = new List<Asignatura>();
-
         public Asignatura() { }
 
         public Asignatura(string Clave, string Nombre, int Credito)
@@ -90,19 +36,27 @@ namespace Proyecto_Tecnicas
             {
                 return false;
             }
-
         }
 
-        public static void BorrarAsignatura(string clave)
+        public static bool BorrarAsignatura(string clave)
         {
-            Asignatura.Asignaturas.RemoveAll(r=> r.Clave == clave);
-            for (int i = 0; i < Estudiante.Estudiantes.Count; i++)
+            try
             {
-                for (int j = 0; j < Estudiante.Estudiantes[i].Trimestres.Count; j++)
+                Asignatura.Asignaturas.RemoveAll(r => r.Clave == clave);
+                for (int i = 0; i < Estudiante.Estudiantes.Count; i++)
                 {
-                    Estudiante.Estudiantes[i].Trimestres[j].Asignaturas.RemoveAll(r=> r.Clave == clave);
+                    for (int j = 0; j < Estudiante.Estudiantes[i].Trimestres.Count; j++)
+                    {
+                        Estudiante.Estudiantes[i].Trimestres[j].Asignaturas.RemoveAll(r => r.Clave == clave);
+                    }
                 }
+                return true;
             }
+            catch (Exception)
+            {
+                return false;
+            }
+            
         }
 
         public string toString()
