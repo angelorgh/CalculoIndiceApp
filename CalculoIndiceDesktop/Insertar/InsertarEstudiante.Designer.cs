@@ -79,6 +79,7 @@
             this.textBoxEstNombre.Name = "textBoxEstNombre";
             this.textBoxEstNombre.Size = new System.Drawing.Size(169, 20);
             this.textBoxEstNombre.TabIndex = 5;
+            this.textBoxEstNombre.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBoxEstNombre_KeyPress);
             // 
             // textBoxEstCarrera
             // 
