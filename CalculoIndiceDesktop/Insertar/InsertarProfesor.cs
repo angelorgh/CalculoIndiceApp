@@ -65,5 +65,10 @@ namespace Proyecto_Tecnicas
             this.Close();
             
         }
+
+        private void textBoxNombreProf_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = !(char.IsLetter(e.KeyChar) || e.KeyChar == (char)Keys.Back);
+        }
     }
 }

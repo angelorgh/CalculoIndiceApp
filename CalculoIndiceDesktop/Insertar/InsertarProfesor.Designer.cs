@@ -66,6 +66,7 @@
             this.textBoxNombreProf.Name = "textBoxNombreProf";
             this.textBoxNombreProf.Size = new System.Drawing.Size(131, 20);
             this.textBoxNombreProf.TabIndex = 4;
+            this.textBoxNombreProf.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBoxNombreProf_KeyPress);
             // 
             // Agregar
             // 
