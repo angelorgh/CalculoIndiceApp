@@ -99,9 +99,17 @@ namespace Proyecto_Tecnicas
         }
 
 
-        public void AgregarAsignatura(Asignatura asig)
+        public bool AgregarAsignatura(Asignatura asig)
         {
-            this.Asignaturas.Add(asig);
+            try
+            {
+                this.Asignaturas.Add(asig);
+                return true;
+            }
+            catch (Exception)
+            {
+                return false;
+            }
         }
 
         public int BuscarAsignatura(string Clave)
@@ -109,7 +117,8 @@ namespace Proyecto_Tecnicas
             int index = this.Asignaturas.FindIndex(r => r.Clave == Clave);
             return index;
         }
-        public void CalcularIndiceTrimestral()
+
+        public double CalcularIndiceTrimestral()
         {
             double indice = 0;
             double sumaCreditos = 0;
@@ -157,9 +166,10 @@ namespace Proyecto_Tecnicas
             }
             indice = totalPuntosdeHonor / sumaCreditos;
 
-            indice = Math.Round(indice,1);
+            //indice = Math.Round(indice,1);
             this.IndiceTrim = indice;
             Estudiante.CheckearHonores();
+            return indice;
         }
 
         public double CalcularPonderacion()
