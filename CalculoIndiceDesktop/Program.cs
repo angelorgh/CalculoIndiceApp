@@ -25,7 +25,7 @@ namespace Proyecto_Tecnicas
             //Application.Run(new Menu());
             //Application.Run(mainMenu);
             //Menu.mainMenu.Show();
-            WriteToFiles();
+
         }
 
         public static void WriteToFiles()
