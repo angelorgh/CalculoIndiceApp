@@ -185,7 +185,7 @@ namespace Proyecto_Tecnicas
             }
 
             indiceGeneral = ponderacionGeneral / creditosTotal;
-            indiceGeneral = Math.Round(indiceGeneral, 1);
+            indiceGeneral = Math.Round(indiceGeneral, 2);
             this.IndiceGeneral = indiceGeneral;
             CheckearHonores();
             return this.IndiceGeneral;
