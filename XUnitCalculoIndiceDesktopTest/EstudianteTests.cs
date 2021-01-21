@@ -10,12 +10,18 @@ namespace XUnitCalculoIndiceDesktopTest
 {
     public class EstudianteTests
     {
-        public static List<Estudiante> estudiantes;
-
+       
         public EstudianteTests()
         {
-            EstudianteTests.estudiantes.Add(new Estudiante { Carrera = "Ingenieria Software", Honores = "Magna Cum Laude", ID = "1085855", IndiceGeneral = 3.54, Nombre = "Gabriel", Trimestres = null });
-            Estudiante.Estudiantes = EstudianteTests.estudiantes;
+            List<Asignatura> asignaturas = new List<Asignatura>();
+           // List<Trimestre> trimestres = new List<Trimestre>();
+            List<Estudiante> estudiantes = new List<Estudiante>();
+           // asignaturas.Add(new Asignatura { Clave = "IDS-332", Credito = 5, Nombre = "Lab.Test", Nota = 90 });
+            //trimestres.Add(new Trimestre { Asignaturas = asignaturas, añoFin = "2020", añoInicio = "2020", ID = "1", IndiceTrim = 3.54, Meses = "Agosto-Noviembre"});
+            estudiantes.Add(new Estudiante { Carrera = "Ingenieria Software", ID = "1085855", Nombre = "Gabriel", Honores ="Magna Cum Laude", IndiceGeneral = 3.54});
+            Estudiante.Estudiantes = estudiantes;
+            
+            
         }
 
         [Fact]
@@ -24,7 +30,19 @@ namespace XUnitCalculoIndiceDesktopTest
             Estudiante estudiante = new Estudiante("1085855", "Gabriel", "Psicologia");
             Assert.True(estudiante.AgregarEstudiante());
             Assert.Contains(estudiante, Estudiante.Estudiantes);
-            
         }
+        [Fact]
+        public void BorrarEstudiantes_Completes_Without_Exception()
+        {
+            Estudiante testEstudiante = new Estudiante { Carrera = "Ingenieria Software", ID = "1085855", Nombre = "Gabriel", Honores = "Magna Cum Laude", IndiceGeneral = 3.54 };
+            Assert.True(Estudiante.BorrarEstudiante("1085855"));
+            Assert.DoesNotContain(testEstudiante, Estudiante.Estudiantes);
+        }
+        [Fact]
+        public void AgregarTrimestre_Completes_Without_Exception()
+        {
+
+        }
+
     }
 }
