@@ -78,9 +78,19 @@ namespace Proyecto_Tecnicas
             this.Nombre = Nombre;
             this.Credito = Credito;
         }
-        public void AgregarAsignatura()
+
+        public bool AgregarAsignatura()
         {
-            Asignaturas.Add(this);
+            try
+            {
+                Asignaturas.Add(this);
+                return true;
+            }
+            catch (Exception)
+            {
+                return false;
+            }
+
         }
 
         public static void BorrarAsignatura(string clave)

@@ -3,11 +3,11 @@ using Xunit;
 using Proyecto_Tecnicas;
 using System.Collections.Generic;
 
-namespace XUnitIndiceTests
+namespace XUnitCalculoIndiceDesktopTest
 {
-    public class UnitTest1
+    public class AsignaturaTests
     {
-        public UnitTest1()
+        public AsignaturaTests()
         {
             List<Asignatura> asignaturas = new List<Asignatura>();
             asignaturas.Add(new Asignatura { Clave = "IDS321", Credito = 3, Nombre = "Test", Nota = 92 });
